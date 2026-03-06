@@ -135,7 +135,7 @@ const Index = () => {
           </motion.p>
           <motion.div {...fadeUp} transition={{ delay: 0.2 }} className="rounded-lg overflow-hidden shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.9023073546376!2d107.61384987576864!3d-6.900825493098567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e63b1536b8c3%3A0xf4e2c959fba63a4e!2sHotel%20Serela%20Riau!5e0!3m2!1sen!2sid!4v1700000000000!5m2!1sen!2sid"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1980.45!2d107.6138!3d-6.9008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e63b1536b8c3%3A0xf4e2c959fba63a4e!2sHotel%20Serela%20Riau!5e0!3m2!1sid!2sid!4v1700000000000!5m2!1sid!2sid"
               width="100%"
               height="400"
               style={{ border: 0 }}
