@@ -131,7 +131,7 @@ const Index = () => {
             Lokasi Acara
           </motion.h2>
           <motion.p {...fadeUp} transition={{ delay: 0.1 }} className="font-body text-muted-foreground mb-8 text-center">
-            Serela Riau Hotel, Bandung
+            Serela Riau Hotel — Jl. L. L. R.E. Martadinata No.56, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115
           </motion.p>
           <motion.div {...fadeUp} transition={{ delay: 0.2 }} className="rounded-lg overflow-hidden shadow-lg">
             <iframe
