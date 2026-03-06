@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Clock, Calendar, MapPin, Star } from "lucide-react";
+import SparkleBackground from "@/components/SparkleBackground";
 import GeometricDecoration from "@/components/GeometricDecoration";
 import WaveDecoration from "@/components/WaveDecoration";
 import CountdownTimer from "@/components/CountdownTimer";
@@ -18,6 +19,7 @@ const Index = () => {
     <div className="min-h-screen bg-background overflow-hidden">
       {/* Hero Section */}
       <section className="relative min-h-screen flex items-center justify-center px-6 py-20">
+        <SparkleBackground />
         <GeometricDecoration position="left" />
         <GeometricDecoration position="right" className="!left-auto !top-auto !right-0 !bottom-0" />
         
