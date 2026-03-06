@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { Clock, Calendar, MapPin, Star } from "lucide-react";
+import SparkleBackground from "@/components/SparkleBackground";
 import GeometricDecoration from "@/components/GeometricDecoration";
 import WaveDecoration from "@/components/WaveDecoration";
 import CountdownTimer from "@/components/CountdownTimer";
